@@ -21,7 +21,7 @@ function TinderCards() {
                 cleanup
             }
         }, [input])
-
+        //TEsteo Git supongo
     //push to an array in react
     //cuidado con el ...people porque sino borra los datos previos
     //setPeople([...people, 'charles', 'John'])
